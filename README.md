@@ -1,8 +1,6 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Product Display Page
 
-> Description the project.
+> Description of the project.
 > This project is the backend of a PHP API project that collects product data 
 
 
@@ -22,7 +20,8 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-MySQL Database, PHP version 7
+MySQL Database, PHP version 7 and above
+
 
 
 ## Authors
@@ -43,12 +42,6 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
